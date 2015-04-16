@@ -9,6 +9,7 @@ public class main {
 	
 	public void not () {
 		System.out.println("GT");
+		System.out.println("TrunkTest");
 	}
 
 }
