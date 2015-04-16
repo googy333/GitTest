@@ -11,6 +11,7 @@ public class main {
 		System.out.println("GT");
 		System.out.println("TrunkTest");
 		System.out.println("TrunkTest2");
+		System.out.println("TrunkTest3");
 	}
 
 }
